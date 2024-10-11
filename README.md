@@ -11,7 +11,7 @@
   install the libraries in requirments.txt
 
 ## Final step:
-  run app.py to run the project
+  run the project using ``` streamlit run app/app.py ```
 
 ## Build a bocker container (Optional):
   use docker file to build an image then build a container out of that image
